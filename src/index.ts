@@ -1,0 +1,1 @@
+export { isValidHealthInsuranceNumber } from "./isValidHealthInsuranceNumber";
